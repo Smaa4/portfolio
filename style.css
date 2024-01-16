@@ -1,0 +1,38 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f7e7e8; /* Bleu rosé clair */
+}
+
+.container {
+    text-align: center;
+}
+
+header {
+    background-color: #85a1b0; /* Bleu rosé moyen */
+    color: white;
+    padding: 20px;
+}
+
+section {
+    padding: 20px;
+    margin: 20px 0;
+    background-color: #ffffff; /* Fond blanc */
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: left;
+}
+
+h2 {
+    color: #85a1b0; /* Bleu rosé moyen */
+}
+
+footer {
+    background-color: #85a1b0; /* Bleu rosé moyen */
+    color: white;
+    text-align: center;
+    padding: 10px;
+    bottom: 0;
+    width: 100%;
+}
